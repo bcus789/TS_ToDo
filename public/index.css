@@ -9,6 +9,20 @@
 #canvas {
   display: block;
   margin: 2rem auto;
-  width: 540px;
-  height: 540px;
+  width: 800px;
+  height: 800px;
+}
+#list {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+#new-task-title {
+  padding: 12px 20px;
+  margin-top: 20%;
+}
+#add_button {
+  background-color: #e7e7e7; color: black;
+  border-color: #e7e7e7;
+  padding: 12px;
 }
